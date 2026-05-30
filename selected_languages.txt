@@ -1,8 +1,8 @@
-Python
-Assembly
-C++
-C
-Go
-Rust
-VHDL
-C#
+python
+c++
+c-sharp
+go
+java
+prolog
+verilog
+assembly
